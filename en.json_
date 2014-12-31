@@ -14,7 +14,7 @@
         "1035798987": "Kuroshio",
         "1042802009": "+10 Shipdaughter slots (Max 180)",
         "1049237530": "Yuudachi Mk.3",
-        "1050074086": "Saiun",
+        "1050074086": "Iridescent Cloud",
         "105221349": "Scrap 4 pieces of equipment.",
         "1052971915": "Ushio Mk.2",
         "1055124955": "Repair a ship.",
@@ -85,7 +85,7 @@
         "126083837": "53cm Hull(O2)Torp",
         "1261836169": "Deploy with a light cruiser as flagship and 3 destroyers.",
         "1267721233": "Defeat 5 bosses in World 2.",
-        "1271667967": "Suisei",
+        "1271667967": "Comet",
         "1286053887": "Nice to meet you! I'm Fubuki! <br>Thanks for having me!",
         "1304906159": "Obtain the two Tenryuu-class light cruiser sisters!",
         "1306030326": "Hiei Mk.2",
@@ -179,7 +179,7 @@
         "1717486060": "Scrap a piece of equipment.",
         "1721241544": "The first ship construction!",
         "1726471160": "Souryuu Mk.2",
-        "1738506578": "Reppuu Mk.2",
+        "1738506578": "Strong Gale Mk.2",
         "1740960738": "Sink 3 enemy transport ships.",
         "1743892773": "Southwestern Archipelago",
         "1746233816": "None",
@@ -278,7 +278,7 @@
         "2120577768": "Hi, I'm Yuudachi, a Shiratsuyu-class destroyer. <br>Nice to meet you!",
         "2120890672": "Western Waters",
         "2126616236": "Ta-Class BB",
-        "2129190732": "Suisei 12A",
+        "2129190732": "Comet Model 12A",
         "2131990366": "Daihatsu LC",
         "2140249275": "Light Cruiser Yahagi, reporting for duty. <br>Let's do our best to the end, Admiral!",
         "214123399": "Haruna",
@@ -305,7 +305,7 @@
         "2234858776": "15.2cm Sgl Cannon",
         "2235482360": "Suzuya",
         "2243733727": "Nice to meet you. <br>I'm Ayanami, a special class destroyer.",
-        "2250752145": "Reppuu",
+        "2250752145": "Strong Gale",
         "2253033470": "Have 2 heavy cruisers in your fleet. ",
         "2254618755": "The first expedition!",
         "2263001951": "Have Atago, Takao, Choukai, and Maya in your main fleet.",
@@ -694,7 +694,7 @@
         "4002897884": "Beat the World 1-2 boss again.",
         "400483711": "Impr Steam Turbine",
         "4010049146": "Michishio Mk.2",
-        "4010925432": "Shiden Mk.3",
+        "4010925432": "Violet Lightning Mk.3",
         "4017351985": "I-168",
         "4023044537": "Deploy a battleship!",
         "402306802": "Defeat the flagship of an enemy fleet.",
@@ -882,9 +882,5 @@
         "991624237": "Type 62 Zero F/B",
         "992479232": "2cm Flakvierling 38",
         "997333936": "Hatsuyuki"
-        "1066199628": "Suisei (Egusa Squadron)"
-        "2100828358": "Suisei (601 Air Group)"
-        "884499923": "Type 21 Zero Fighter (Skilled)"
-        "888441781": "Zero Type 52-C (601 Air Group)"
     }
 }
