@@ -1,7 +1,6 @@
 {
     "success": 1,
     "translation": {
-        "3461953900": "Cam Ranh Peninsula",
         "1005240330": "Asagumo",
         "1005607906": "61cm Quint(O2)Torp",
         "100727245": "Kirishima",
@@ -437,6 +436,7 @@
         "2788332753": "Organize a destroyer task force!",
         "2790851069": "Fleet Command Facility",
         "2798558792": "Beat the 2-3 boss with Choukai, Aoba, Kinugasa, Kako, Furutaka, and Tenryuu.",
+        "2809419976": "Operation Ka - Interception",
         "2826616775": "Prinz Eugen",
         "2831995627": "Kiyoshimo Mk.2",
         "2841135887": "46cm Triple Cannon",
@@ -598,6 +598,7 @@
         "3455017847": "Samidare",
         "3460636723": "Type 96 Fighter",
         "3461347405": "I'm the aviation battleship Ise! <br>With a rear-facing flight deck and 2 catapult launchers, I can make use of the power of aviation!\n",
+        "3461953900": "Cam Ranh Peninsula",
         "3481894997": "Have 6 ships in your fleet.",
         "3487635330": "20.3cm#3 Twin Cann.",
         "3487806944": "Organize the Eighth Destroyer Fleet!",
