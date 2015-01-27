@@ -664,7 +664,7 @@
         "3627624050": "I am the battleship Nagato. Pleased to meet you. <br>Just leave the enemy battleships to me.\n",
         "3632305992": "Arashio",
         "3638610703": "Naka Mk.3",
-        "3644841214": "Defeat either the 3-3 or 3-4 boss 5 times.",
+        "3644841214": "Defeat either the 3-3, 3-4 or 3-5 boss 5 times.",
         "3649446366": "Anti-Torp Bulge(Med)",
         "3650831228": "Typ 22 Surface Rdr",
         "3662354233": "New High Pressure-Temperature Steam Boiler",
@@ -677,7 +677,7 @@
         "3690526502": "Hatsukaze",
         "3697577614": "Furniture Coins Obtained (Small)",
         "3699662082": "Kisaragi",
-        "3703766414": "Shigure Mk.2 ",
+        "3703766414": "Shigure Mk.3",
         "370566336": "Typ 99 Div Bmb (Skilled)",
         "3712217829": "Satsuki here. <br>Nice to meet ya! ",
         "3715136241": "Myoukou",
@@ -954,10 +954,11 @@
         "2423637906": "Have a Level 100 ship as your flagship along with five others in your main fleet.",
         "1642328619": "Deploy a Battleship Squadron!",
         "1290891883": "Deploy 3 Slow battleships and 1 light cruiser to World 5-1 and obtain an S-rank victory.",
-        "4240003125": "Imprv material",
+        "4240003125": "Imprv. Material",
         "540183222": "Blueprint",
         "4228855139": "Marriage Ring",
         "2019287240": "12.7cm Naval Gun",
-        "3461316404": "It's me, Urakaze, nice to meet 'ya!"
+        "3461316404": "It's me, Urakaze, nice to meet 'ya!",
+        "598074892": "SKC34 20.3cm Twn Cann."
     }
 }
