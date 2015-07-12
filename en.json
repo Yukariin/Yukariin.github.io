@@ -1080,7 +1080,7 @@
         "4196140038": "Kongou Kai",
         "4201758320": " SS  ",
         "4205950981": "In Preparation of Love! (Final)",
-        "4205950981": "In Preparation of Love! (Part 3)",
+        "3347593786": "In Preparation of Love! (Part 3)",
         "4215499577": "Chikuma Kai Ni",
         "4219101123": "Nagato class' 2nd ship and from there, Mutsu. <br>Of course, I'm part of the world's big 7. <br>Ehh? The gunpowder explosion accident? <br>Well, can't cover it up anymore right? This time will be fine!",
         "4225092515": "Cheers! I'm Suzukaze! <br>With me in your fleet, you won't have to worry about anything anymore!",
@@ -1113,5 +1113,27 @@
         "2700722913": "Tenzan (931 Air Group)",
         "1844092411": "Type 97 Torpedo Bomber(931 Air Group)",
         "3983599437": "Anti-torpedo Bulge (Large)"
+        "3704208373": "Developed after the Hatsuharu-class destroyer, Shiratsuyu-class, number one, I'm Shiratsuyu! Yeah, number one, the first ship! <br>With lots of upgrades, I'm a true fleet destroyer, you know! <br>Eh? 'Don't be in such a rush that you'll hit a tanker'? Don't worry about it! ",
+        "2543252095": "Replenishment Fleet Fuel Pack <br>(Recovers 200 Fuel)",
+        "1499580047": "Replenishment Fleet Ammo Pack <br>(Recovers 200 Ammo)",
+        "3662521972": "Ship Construction Steel Pack <br>(Recovers 150 Steel)",
+        "310496560": "Aircraft-related Bauxite Pack <br>(Recovers 100 Bauxite)",
+        "2095173707": "Customized Furniture Pack <br>(Gives 1 Furniture Fairy)",
+        "1660710113": "Construction and Development Pack <br>(Gives 7 Development Material)",
+        "2117327407": "Instant Repair Pack <br>(Gives 5 Fast Repair Material)",
+        "1015723710": "Instant Construction Pack <br>(Gives 5 Fast Construcion Material)",
+        "1785813101": "Protect Ship from Sinking <br>(Gives 1 Repair Team)",
+        "2192939382": "Protect and Recover Ship from Sinking <br>(Gives 1 Repair Goddess)",
+        "3239168816": "Gives 1 Key <br>(Unlocks 1 Repair Dock OR 1 Construction Slot) ",
+        "3903793703": "Increases your ship capacity by 10 and your equipment capacity by 40! <br>(can only be bought 15 times),
+        "3266977632": "A set of marriage papers and ring that allows you to marry the ship of your choice ",
+        "995798335": "Gives 1500 Steel, 200 Ammo, 200 Fuel, 200 Bauxite and 2 Development Materials",
+        "1907321865": "Gives 1 Food Supply Ship Mamiya <br>(instant fatigue recovery for a whole fleet)",
+        "4210405222": "Gives 5 Food Supply Ship Irako <br>(boost morale for the whole fleet)",
+        "3828317481": "Drop of oil ... fuel shortage resolved! <br>(Recovers 1000 Fuel)",
+        "1462615004": "Source of duralumin aircraft! <br>(Recovers 550 Bauxite)",
+        "2641248502": "Affordable Sortie Pack <br>(Gives 500 Fuel, 500 Ammo, 200 Steel and 2 Instant Repairs)",
+        "1433799619": "Akashi's Improvement Arsenal Repair Pack <br>(Gives 10 Improvement Materials)"
+        
     }
 }
