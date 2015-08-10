@@ -3,7 +3,7 @@
   "潜水空母": "SSV",
   "沖ノ島沖戦闘哨戒": "Okinoshima Patrol Battles",
   "Guten Morgen.<br>僕の名前はレーベレヒト・マース。<br>レーベでいいよ…うん。": "Good morning.<brI'm Leberecht Maass. <br> Lebe is fine, yep.",
-  "足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。": "Hi, I'm Ashigara. My specialty is surface combat. <br>Nice to meet you.\n",
+  "足柄よ。砲雷撃戦が得意なの。<br>ふふ、よろしくね。": "Hi, I'm Ashigara. My specialty is surface combat. <br>Nice to meet you.",
   "建造・開発をバリバリどうぞ！<br>開発資材パック(7回分)": "Construction and Development Pack <br>(Gives 7 Development Material)",
   "カムラン半島付近に<br>遊弋する敵艦隊を捕捉、<br>これを迎撃せよ！": "There is an enemy fleet patrolling off the Cam Ranh Peninsula. <br>Intercept them!",
   "飛鷹": "Hiyou",
@@ -1217,5 +1217,7 @@
   "南方海域珊瑚諸島沖の制空権を握れ！": "Seize Air Superiority on the Southern Sea Coral Islands!",
   "南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を撃滅、これに完全勝利せよ！": "Sortie to World 5-2 and get an S-Rank at the boss node 2 times.",
   "敵東方中枢艦隊を撃破せよ！": "Crush the Core of the Enemy's Eastern Fleet!",
-  "西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！": "Defeat the boss in World 4-4."
+  "西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！": "Defeat the boss in World 4-4.",
+  "照月": "Teruzuki",
+  "照月改": "Teruzuki Kai"
 }
