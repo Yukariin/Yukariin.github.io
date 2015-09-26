@@ -1346,10 +1346,10 @@
   "水母棲姫": "Seaplane Tender Princess",
   "防空棲姫": "Air Defense Princess",
   "四式水中聴音機": "Type 4 Sonar",
-  "精鋭「九七式艦攻」部隊の編成": "[F19]Organize the Elite Type 97 Torpedo Bomber Force!",
+  "精鋭「九七式艦攻」部隊の編成": "[F19] Organize the Elite Type 97 Torpedo Bomber Force!",
   "「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！": "Have Shoukaku/Akagi as flagship and then scrap 3 Type 97 Torpedo Bomber.",
   "「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！": "Have Shoukaku equipped with Type 97 TB(Murata Squadron), then scrap 2 Tenzan.",
-  "機動部隊の運用を強化せよ！": "[D19]Enhance the Use of the Task Force!",
+  "機動部隊の運用を強化せよ！": "[D19] Enhance the Use of the Task Force!",
   "機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！": "Complete Expeditions 26 and 35.",
   "「第五航空戦隊」珊瑚諸島沖に出撃せよ！": "[B50] Sortie the 5th Carrier Division to the Southern Sea Coral Islands!",
   "再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！": "Sortie Shoukaku, Zuikaku, Oboro, Akigumo and 2 Ships to World 5-2 and obtain an S-Rank at the boss.",
@@ -1362,5 +1362,7 @@
   "新編「第二一戦隊」出撃準備！": "[A57] Prepare the New 21st Squadron for Sortie!",
   "「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！": "Have Nachi(Kai-2), Ashigara(Kai-2), Tama and Kiso in your main fleet.",
   "「第十六戦隊(第一次)」を編成せよ！": "[A58] Organize the 16th Squadron! (First Generation)",
-  "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！": "Have Ashigara as flagship, Kuma and Nagara in your main fleet."
+  "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！": "Have Ashigara as flagship, Kuma and Nagara in your main fleet.",
+  "鎮守府正面の対潜哨戒を強化せよ！": "[B48] Strengthen the ASW Patrol in Front of the Naval Base!",
+  "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！": "Sortie to World 1-5 and obtain four A-Ranks (or better) at the boss."
 }
