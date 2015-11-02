@@ -127,7 +127,7 @@
   "不知火改": "Shiranui Kai",
   "燃料獲得（極小）": "Fuel Obtained (Tiny)",
   "曙": "Akebono",
-  "零式艦戦21型(熟練)": "Zero M21 (Skilled)",
+  "零式艦戦21型(熟練)": "Zero M21 (Skilled) Fighter",
   "ナガラ級": "Nagara Cruiser",
   "ハルナ*": "Haruna*",
   "瑞鳳": "Zuihou",
@@ -820,7 +820,7 @@
   "駆逐ハ級後期型": "Ha-Class DD Late Model",
   "伊401": "I-401",
   "深雪だよ。<br>よろしくな！": "Miyuki here. <br>Great to meet you! ",
-  "零戦52型丙(六〇一空)": "Zero M52C (601 Air Group)",
+  "零戦52型丙(六〇一空)": "Zero M52C (601 Air Group) Fighter",
   "「伊勢」型戦艦姉妹の全２隻を編成せよ！": "[A18] Organize Both Sisters of the Ise-class Battleships!",
   "長月改": "Nagatsuki Kai",
   "三隈改": "Mikuma Kai",
@@ -1364,5 +1364,12 @@
   "「第十六戦隊(第一次)」を編成せよ！": "[A58] Organize the 16th Squadron! (First Generation)",
   "「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！": "Have Ashigara as flagship, Kuma and Nagara in your main fleet.",
   "鎮守府正面の対潜哨戒を強化せよ！": "[B48] Strengthen the ASW Patrol in Front of the Naval Base!",
-  "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！": "Sortie to World 1-5 and obtain four A-Ranks (or better) at the boss."
+  "鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！": "Sortie to World 1-5 and obtain four A-Ranks (or better) at the boss.",
+  "零戦21型(付岩本小隊)": "Zero M21 (Iwamoto Flight) Fighter",
+  "零式艦戦52型(熟練)": "Zero M52 (Skilled) Fighter",
+  "零戦52型丙(付岩井小隊)": "Zero M52C (Iwai Flight) Fighter",
+  "零戦52型甲(付岩本小隊)": "Zero M52A (Iwamoto Flight) Fighter",
+  "零戦62型(爆戦/岩井隊)": "Zero M62 (Iwai Squadron) F/B",
+  "瑞鶴改二": "Zuikaku Kai Ni",
+  "瑞鶴改二甲": "Zuikaku Kai Ni A"
 }
